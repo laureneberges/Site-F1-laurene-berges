@@ -1,0 +1,13 @@
+#banner {
+	height: 50vh;
+	background-image: url("../images/f1.jpg");
+	font-size: large;
+	font-weight: bold;
+	background-size: cover;
+	color: white;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}

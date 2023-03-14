@@ -1,0 +1,14 @@
+#bouton {
+	background-color: black;
+	color : white;
+	font-weight: initial;
+	font-size: x-large;
+	border-radius: 16px;
+	padding: 4px 16px;
+	border : 1px red;
+	display: block;
+	width:55%;
+	margin: 16px auto;
+	text-align: center;	
+	align-content: center;
+}

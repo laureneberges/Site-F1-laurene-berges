@@ -1,0 +1,18 @@
+@import "banner.css";
+@import "buttons.css";
+@import "footer.css";
+@import "cards.css";
+@import "text.css";
+@import "bouton.css";
+@import "logo.css"
+
+body{
+	margin: 16px;
+	background-color: white;
+	color: white;
+	font-size: x-large;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
